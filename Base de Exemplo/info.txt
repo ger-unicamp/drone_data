@@ -4,4 +4,4 @@ y = de cima para baixo
 x = da esquerda para a direita
 
 Centro da base: (140,135)
-Escala (m/px) 102/0,8 = 127,5
+Escala (m/px) 0,8/102 = 0,007843137
